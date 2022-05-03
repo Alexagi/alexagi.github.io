@@ -1,1 +1,1 @@
-https://alexagi.github.io
+https://alexagi.github.io/website
